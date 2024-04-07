@@ -1,0 +1,1005 @@
+[
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45763",
+    "stop_name": "Boissise-le-Roi",
+    "stop_lon": "2.57179291425262",
+    "stop_lat": "48.52985734002498",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.57179291425262,
+      "lat": 48.52985734002498
+    },
+    "nom_commune": "Boissise-le-Roi",
+    "code_insee": "77040"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45812",
+    "stop_name": "Ponthierry - Pringy",
+    "stop_lon": "2.5445365646399507",
+    "stop_lat": "48.535084951085466",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5445365646399507,
+      "lat": 48.535084951085466
+    },
+    "nom_commune": "Saint-Fargeau-Ponthierry",
+    "code_insee": "77407"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47909",
+    "stop_name": "Melun",
+    "stop_lon": "2.65469836071817",
+    "stop_lat": "48.527491277248295",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.65469836071817,
+      "lat": 48.527491277248295
+    },
+    "nom_commune": "Melun",
+    "code_insee": "77288"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45771",
+    "stop_name": "Combs-la-Ville - Quincy",
+    "stop_lon": "2.5476998823085504",
+    "stop_lat": "48.667819721800015",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5476998823085504,
+      "lat": 48.667819721800015
+    },
+    "nom_commune": "Combs-la-Ville",
+    "code_insee": "77122"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47924",
+    "stop_name": "Boussy-Saint-Antoine",
+    "stop_lon": "2.533195809235637",
+    "stop_lat": "48.68087387117553",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.533195809235637,
+      "lat": 48.68087387117553
+    },
+    "nom_commune": "Boussy-Saint-Antoine",
+    "code_insee": "91097"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411440",
+    "stop_name": "Creil",
+    "stop_lon": "2.46892902764167",
+    "stop_lat": "49.264185555044406",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.46892902764167,
+      "lat": 49.264185555044406
+    },
+    "nom_commune": "Creil",
+    "code_insee": "60175"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411421",
+    "stop_name": "Orry-la-Ville - Coye",
+    "stop_lon": "2.489862086302069",
+    "stop_lat": "49.13840546145438",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.489862086302069,
+      "lat": 49.13840546145438
+    },
+    "nom_commune": "Orry-la-Ville",
+    "code_insee": "60482"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43222",
+    "stop_name": "Villiers-le-Bel - Gonesse - Arnouville",
+    "stop_lon": "2.4162467958973055",
+    "stop_lat": "48.99377204005172",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4162467958973055,
+      "lat": 48.99377204005172
+    },
+    "nom_commune": "Arnouville",
+    "code_insee": "95019"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43179",
+    "stop_name": "Pierrefitte - Stains",
+    "stop_lon": "2.3703314284767747",
+    "stop_lat": "48.96277628555098",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3703314284767747,
+      "lat": 48.96277628555098
+    },
+    "nom_commune": "Pierrefitte-sur-Seine",
+    "code_insee": "93059"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:412743",
+    "stop_name": "Saint-Denis",
+    "stop_lon": "2.345479004987329",
+    "stop_lat": "48.93482889939617",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.345479004987329,
+      "lat": 48.93482889939617
+    },
+    "nom_commune": "Saint-Denis",
+    "code_insee": "93066"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43204",
+    "stop_name": "Stade de France Saint-Denis",
+    "stop_lon": "2.3504430479100207",
+    "stop_lat": "48.91769737260247",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3504430479100207,
+      "lat": 48.91769737260247
+    },
+    "nom_commune": "Saint-Denis",
+    "code_insee": "93066"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45067",
+    "stop_name": "Villeneuve-Saint-Georges",
+    "stop_lon": "2.446304786739812",
+    "stop_lat": "48.730080267741016",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.446304786739812,
+      "lat": 48.730080267741016
+    },
+    "nom_commune": "Villeneuve-Saint-Georges",
+    "code_insee": "94078"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45761",
+    "stop_name": "Moulin Galant",
+    "stop_lon": "2.473444919964576",
+    "stop_lat": "48.58688228073328",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.473444919964576,
+      "lat": 48.58688228073328
+    },
+    "nom_commune": "Corbeil-Essonnes",
+    "code_insee": "91174"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47899",
+    "stop_name": "Mennecy",
+    "stop_lon": "2.4319348900260658",
+    "stop_lat": "48.57054850948166",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4319348900260658,
+      "lat": 48.57054850948166
+    },
+    "nom_commune": "Mennecy",
+    "code_insee": "91386"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43156",
+    "stop_name": "Maisse",
+    "stop_lon": "2.393493661032251",
+    "stop_lat": "48.39367132989446",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.393493661032251,
+      "lat": 48.39367132989446
+    },
+    "nom_commune": "Maisse",
+    "code_insee": "91359"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45814",
+    "stop_name": "Saint-Fargeau",
+    "stop_lon": "2.5426100742385285",
+    "stop_lat": "48.56502608446919",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5426100742385285,
+      "lat": 48.56502608446919
+    },
+    "nom_commune": "Saint-Fargeau-Ponthierry",
+    "code_insee": "77407"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45820",
+    "stop_name": "Le Plessis Chenet",
+    "stop_lon": "2.4795222910084975",
+    "stop_lat": "48.57358727886637",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4795222910084975,
+      "lat": 48.57358727886637
+    },
+    "nom_commune": "Le Coudray-Montceaux",
+    "code_insee": "91179"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47684",
+    "stop_name": "Montgeron - Crosne",
+    "stop_lon": "2.461377446437224",
+    "stop_lat": "48.70871108366713",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.461377446437224,
+      "lat": 48.70871108366713
+    },
+    "nom_commune": "Montgeron",
+    "code_insee": "91421"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:44628",
+    "stop_name": "Louvres",
+    "stop_lon": "2.5018113143714777",
+    "stop_lat": "49.04933726826723",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5018113143714777,
+      "lat": 49.04933726826723
+    },
+    "nom_commune": "Louvres",
+    "code_insee": "95351"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43132",
+    "stop_name": "Grigny Centre",
+    "stop_lon": "2.39678605544789",
+    "stop_lat": "48.65484195083382",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.39678605544789,
+      "lat": 48.65484195083382
+    },
+    "nom_commune": "Grigny",
+    "code_insee": "91286"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:48489",
+    "stop_name": "Orangis Bois de l'\u00c9pine",
+    "stop_lon": "2.40769076622141",
+    "stop_lat": "48.6363396147683",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.40769076622141,
+      "lat": 48.6363396147683
+    },
+    "nom_commune": "Ris-Orangis",
+    "code_insee": "91521"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47906",
+    "stop_name": "\u00c9vry - Courcouronnes",
+    "stop_lon": "2.4300329095214526",
+    "stop_lat": "48.62588794663492",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4300329095214526,
+      "lat": 48.62588794663492
+    },
+    "nom_commune": "\u00c9vry-Courcouronnes",
+    "code_insee": "91228"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45850",
+    "stop_name": "Le Bras de Fer",
+    "stop_lon": "2.4520047548737254",
+    "stop_lat": "48.623306397197155",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4520047548737254,
+      "lat": 48.623306397197155
+    },
+    "nom_commune": "\u00c9vry-Courcouronnes",
+    "code_insee": "91228"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45102",
+    "stop_name": "Ch\u00e2telet les Halles",
+    "stop_lon": "2.34697651043533",
+    "stop_lat": "48.86174503191322",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.34697651043533,
+      "lat": 48.86174503191322
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45860",
+    "stop_name": "Grand Bourg",
+    "stop_lon": "2.4348387319350167",
+    "stop_lat": "48.64880840591746",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4348387319350167,
+      "lat": 48.64880840591746
+    },
+    "nom_commune": "Ris-Orangis",
+    "code_insee": "91521"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45745",
+    "stop_name": "\u00c9vry - Val de Seine",
+    "stop_lon": "2.4523091616356028",
+    "stop_lat": "48.63439299320402",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4523091616356028,
+      "lat": 48.63439299320402
+    },
+    "nom_commune": "\u00c9vry-Courcouronnes",
+    "code_insee": "91228"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411485",
+    "stop_name": "Malesherbes",
+    "stop_lon": "2.4010364417288774",
+    "stop_lat": "48.293633291470464",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4010364417288774,
+      "lat": 48.293633291470464
+    },
+    "nom_commune": "Le Malesherbois",
+    "code_insee": "45191"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45784",
+    "stop_name": "Le M\u00e9e",
+    "stop_lon": "2.6255537322060074",
+    "stop_lat": "48.538746730738936",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.6255537322060074,
+      "lat": 48.538746730738936
+    },
+    "nom_commune": "Le M\u00e9e-sur-Seine",
+    "code_insee": "77285"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47665",
+    "stop_name": "Savigny-le-Temple - Nandy",
+    "stop_lon": "2.5839359760934313",
+    "stop_lat": "48.59548998563483",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5839359760934313,
+      "lat": 48.59548998563483
+    },
+    "nom_commune": "Savigny-le-Temple",
+    "code_insee": "77445"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43226",
+    "stop_name": "Yerres",
+    "stop_lon": "2.483187005163047",
+    "stop_lat": "48.7064507273249",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.483187005163047,
+      "lat": 48.7064507273249
+    },
+    "nom_commune": "Yerres",
+    "code_insee": "91691"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47958",
+    "stop_name": "Survilliers - Fosses",
+    "stop_lon": "2.525517836696695",
+    "stop_lat": "49.09951161811565",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.525517836696695,
+      "lat": 49.09951161811565
+    },
+    "nom_commune": "Fosses",
+    "code_insee": "95250"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46286",
+    "stop_name": "Cr\u00e9teil Pompadour",
+    "stop_lon": "2.435315840251248",
+    "stop_lat": "48.771254072297346",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.435315840251248,
+      "lat": 48.771254072297346
+    },
+    "nom_commune": "Cr\u00e9teil",
+    "code_insee": "94028"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46304",
+    "stop_name": "Villeneuve Triage",
+    "stop_lon": "2.438697833840877",
+    "stop_lat": "48.744611139140474",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.438697833840877,
+      "lat": 48.744611139140474
+    },
+    "nom_commune": "Villeneuve-Saint-Georges",
+    "code_insee": "94078"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45735",
+    "stop_name": "Vigneux-sur-Seine",
+    "stop_lon": "2.413499342148242",
+    "stop_lat": "48.70808932141768",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.413499342148242,
+      "lat": 48.70808932141768
+    },
+    "nom_commune": "Vigneux-sur-Seine",
+    "code_insee": "91657"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43225",
+    "stop_name": "Viry-Ch\u00e2tillon",
+    "stop_lon": "2.387021960013403",
+    "stop_lat": "48.67590783936994",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.387021960013403,
+      "lat": 48.67590783936994
+    },
+    "nom_commune": "Viry-Ch\u00e2tillon",
+    "code_insee": "91687"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43142",
+    "stop_name": "La Fert\u00e9-Alais",
+    "stop_lon": "2.352260197381972",
+    "stop_lat": "48.4855007310595",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.352260197381972,
+      "lat": 48.4855007310595
+    },
+    "nom_commune": "Baulne",
+    "code_insee": "91047"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43102",
+    "stop_name": "Buno - Gironville",
+    "stop_lon": "2.3872541083159335",
+    "stop_lat": "48.37149489082515",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3872541083159335,
+      "lat": 48.37149489082515
+    },
+    "nom_commune": "Buno-Bonnevaux",
+    "code_insee": "91121"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43092",
+    "stop_name": "Boigneville",
+    "stop_lon": "2.378618440416535",
+    "stop_lat": "48.341208632507616",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.378618440416535,
+      "lat": 48.341208632507616
+    },
+    "nom_commune": "Boigneville",
+    "code_insee": "91069"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:42516",
+    "stop_name": "Cesson",
+    "stop_lon": "2.5946150549367304",
+    "stop_lat": "48.56486314053174",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5946150549367304,
+      "lat": 48.56486314053174
+    },
+    "nom_commune": "Cesson",
+    "code_insee": "77067"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47669",
+    "stop_name": "Lieusaint - Moissy",
+    "stop_lon": "2.569507070898012",
+    "stop_lat": "48.62833648393033",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.569507070898012,
+      "lat": 48.62833648393033
+    },
+    "nom_commune": "Lieusaint",
+    "code_insee": "77251"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411428",
+    "stop_name": "Chantilly - Gouvieux",
+    "stop_lon": "2.4595159140085237",
+    "stop_lat": "49.187030004663995",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4595159140085237,
+      "lat": 49.187030004663995
+    },
+    "nom_commune": "Chantilly",
+    "code_insee": "60141"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411418",
+    "stop_name": "La Borne Blanche",
+    "stop_lon": "2.5069908684194053",
+    "stop_lat": "49.1261949449139",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5069908684194053,
+      "lat": 49.1261949449139
+    },
+    "nom_commune": "Orry-la-Ville",
+    "code_insee": "60482"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47876",
+    "stop_name": "Goussainville",
+    "stop_lon": "2.4625658079312593",
+    "stop_lat": "49.02341075826703",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4625658079312593,
+      "lat": 49.02341075826703
+    },
+    "nom_commune": "Goussainville",
+    "code_insee": "95280"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43251",
+    "stop_name": "Garges - Sarcelles",
+    "stop_lon": "2.3899547555239407",
+    "stop_lat": "48.97632635843972",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3899547555239407,
+      "lat": 48.97632635843972
+    },
+    "nom_commune": "Garges-l\u00e8s-Gonesse",
+    "code_insee": "95268"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:470195",
+    "stop_name": "Gare de Lyon",
+    "stop_lon": "2.376365660931201",
+    "stop_lat": "48.84340211646564",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.376365660931201,
+      "lat": 48.84340211646564
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47895",
+    "stop_name": "Boutigny",
+    "stop_lon": "2.3767454804181263",
+    "stop_lat": "48.43442542513416",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3767454804181263,
+      "lat": 48.43442542513416
+    },
+    "nom_commune": "Boutigny-sur-Essonne",
+    "code_insee": "91099"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47967",
+    "stop_name": "Vosves",
+    "stop_lon": "2.5994097381795305",
+    "stop_lat": "48.51507609100275",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5994097381795305,
+      "lat": 48.51507609100275
+    },
+    "nom_commune": "Dammarie-les-Lys",
+    "code_insee": "77152"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45824",
+    "stop_name": "Le Coudray-Montceaux",
+    "stop_lon": "2.492424499497774",
+    "stop_lat": "48.56619819315809",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.492424499497774,
+      "lat": 48.56619819315809
+    },
+    "nom_commune": "Le Coudray-Montceaux",
+    "code_insee": "91179"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47904",
+    "stop_name": "Villab\u00e9",
+    "stop_lon": "2.461533386360794",
+    "stop_lat": "48.592814943454",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.461533386360794,
+      "lat": 48.592814943454
+    },
+    "nom_commune": "Villab\u00e9",
+    "code_insee": "91659"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45759",
+    "stop_name": "Essonnes Robinson",
+    "stop_lon": "2.463295818844443",
+    "stop_lat": "48.60581740091332",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.463295818844443,
+      "lat": 48.60581740091332
+    },
+    "nom_commune": "Corbeil-Essonnes",
+    "code_insee": "91174"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58873",
+    "stop_name": "Brunoy",
+    "stop_lon": "2.5068503123113692",
+    "stop_lat": "48.698914475306886",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.5068503123113692,
+      "lat": 48.698914475306886
+    },
+    "nom_commune": "Brunoy",
+    "code_insee": "91114"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47968",
+    "stop_name": "Les Noues",
+    "stop_lon": "2.477713962139221",
+    "stop_lat": "49.03307204384692",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.477713962139221,
+      "lat": 49.03307204384692
+    },
+    "nom_commune": "Goussainville",
+    "code_insee": "95280"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:462394",
+    "stop_name": "Gare du Nord",
+    "stop_lon": "2.356693437528564",
+    "stop_lat": "48.88230685842714",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.356693437528564,
+      "lat": 48.88230685842714
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43154",
+    "stop_name": "Maisons-Alfort - Alfortville",
+    "stop_lon": "2.4264376603578035",
+    "stop_lat": "48.80217813521484",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4264376603578035,
+      "lat": 48.80217813521484
+    },
+    "nom_commune": "Alfortville",
+    "code_insee": "94002"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:464040",
+    "stop_name": "Le Vert de Maisons",
+    "stop_lon": "2.4321242678299977",
+    "stop_lat": "48.78883131123265",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4321242678299977,
+      "lat": 48.78883131123265
+    },
+    "nom_commune": "Maisons-Alfort",
+    "code_insee": "94046"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45739",
+    "stop_name": "Juvisy",
+    "stop_lon": "2.383334629403869",
+    "stop_lat": "48.68970940912314",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.383334629403869,
+      "lat": 48.68970940912314
+    },
+    "nom_commune": "Juvisy-sur-Orge",
+    "code_insee": "91326"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47948",
+    "stop_name": "Ris-Orangis",
+    "stop_lon": "2.414997460834355",
+    "stop_lat": "48.659057463386254",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.414997460834355,
+      "lat": 48.659057463386254
+    },
+    "nom_commune": "Ris-Orangis",
+    "code_insee": "91521"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43115",
+    "stop_name": "Corbeil-Essonnes",
+    "stop_lon": "2.472467657639279",
+    "stop_lat": "48.61323864277619",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.472467657639279,
+      "lat": 48.61323864277619
+    },
+    "nom_commune": "Corbeil-Essonnes",
+    "code_insee": "91174"
+  },
+  {
+    "id": "IDFM:C01728",
+    "route_long_name": "D",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43087",
+    "stop_name": "Ballancourt",
+    "stop_lon": "2.3700930488013845",
+    "stop_lat": "48.53101531216478",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3700930488013845,
+      "lat": 48.53101531216478
+    },
+    "nom_commune": "Ballancourt-sur-Essonne",
+    "code_insee": "91045"
+  }
+]

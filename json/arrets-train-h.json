@@ -1,0 +1,851 @@
+[
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47946",
+    "stop_name": "Presles - Courcelles",
+    "stop_lon": "2.2878509419549213",
+    "stop_lat": "49.11367528279733",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2878509419549213,
+      "lat": 49.11367528279733
+    },
+    "nom_commune": "Presles",
+    "code_insee": "95504"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43168",
+    "stop_name": "Montsoult - Maffliers",
+    "stop_lon": "2.3228219079408823",
+    "stop_lat": "49.06616021905701",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3228219079408823,
+      "lat": 49.06616021905701
+    },
+    "nom_commune": "Montsoult",
+    "code_insee": "95430"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47524",
+    "stop_name": "Belloy - Saint-Martin",
+    "stop_lon": "2.3613265147338978",
+    "stop_lat": "49.09838940491585",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3613265147338978,
+      "lat": 49.09838940491585
+    },
+    "nom_commune": "Belloy-en-France",
+    "code_insee": "95056"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46470",
+    "stop_name": "La Barre Ormesson",
+    "stop_lon": "2.3167036448125224",
+    "stop_lat": "48.96628415206348",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3167036448125224,
+      "lat": 48.96628415206348
+    },
+    "nom_commune": "Deuil-la-Barre",
+    "code_insee": "95197"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47599",
+    "stop_name": "Saint-Ouen-l'Aum\u00f4ne",
+    "stop_lon": "2.105230857870794",
+    "stop_lat": "49.04530690087292",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.105230857870794,
+      "lat": 49.04530690087292
+    },
+    "nom_commune": "Saint-Ouen-l'Aum\u00f4ne",
+    "code_insee": "95572"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47595",
+    "stop_name": "Pont Petit",
+    "stop_lon": "2.131241645234573",
+    "stop_lat": "49.06087605161007",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.131241645234573,
+      "lat": 49.06087605161007
+    },
+    "nom_commune": "Saint-Ouen-l'Aum\u00f4ne",
+    "code_insee": "95572"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43133",
+    "stop_name": "Groslay",
+    "stop_lon": "2.3535217052321715",
+    "stop_lat": "48.98436467954606",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3535217052321715,
+      "lat": 48.98436467954606
+    },
+    "nom_commune": "Groslay",
+    "code_insee": "95288"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47528",
+    "stop_name": "Luzarches",
+    "stop_lon": "2.4200435326085863",
+    "stop_lat": "49.117099228494695",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4200435326085863,
+      "lat": 49.117099228494695
+    },
+    "nom_commune": "Luzarches",
+    "code_insee": "95352"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:462394",
+    "stop_name": "Paris Nord",
+    "stop_lon": "2.356693437528564",
+    "stop_lat": "48.88230685842714",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.356693437528564,
+      "lat": 48.88230685842714
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43078",
+    "stop_name": "\u00c9pinay - Villetaneuse",
+    "stop_lon": "2.3287601965958715",
+    "stop_lat": "48.95792884911306",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3287601965958715,
+      "lat": 48.95792884911306
+    },
+    "nom_commune": "\u00c9pinay-sur-Seine",
+    "code_insee": "93031"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46477",
+    "stop_name": "Champ de Courses d'Enghien",
+    "stop_lon": "2.291148632256432",
+    "stop_lat": "48.9796949197308",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.291148632256432,
+      "lat": 48.9796949197308
+    },
+    "nom_commune": "Soisy-sous-Montmorency",
+    "code_insee": "95598"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:46482",
+    "stop_name": "Gros Noyer Saint-Prix",
+    "stop_lon": "2.2596836105712628",
+    "stop_lat": "48.996079034066284",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2596836105712628,
+      "lat": 48.996079034066284
+    },
+    "nom_commune": "Ermont",
+    "code_insee": "95219"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47580",
+    "stop_name": "Fr\u00e9pillon",
+    "stop_lon": "2.197098920791642",
+    "stop_lat": "49.045277206622124",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.197098920791642,
+      "lat": 49.045277206622124
+    },
+    "nom_commune": "Fr\u00e9pillon",
+    "code_insee": "95256"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47588",
+    "stop_name": "Valmondois",
+    "stop_lon": "2.2019152338634327",
+    "stop_lat": "49.09093718795672",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2019152338634327,
+      "lat": 49.09093718795672
+    },
+    "nom_commune": "Butry-sur-Oise",
+    "code_insee": "95120"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411329",
+    "stop_name": "Saint-Leu-d'Esserent",
+    "stop_lon": "2.417071454431694",
+    "stop_lat": "49.21379460642065",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.417071454431694,
+      "lat": 49.21379460642065
+    },
+    "nom_commune": "Saint-Leu-d'Esserent",
+    "code_insee": "60584"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43166",
+    "stop_name": "Montigny - Beauchamp",
+    "stop_lon": "2.1965151756043033",
+    "stop_lat": "49.007744118117",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1965151756043033,
+      "lat": 49.007744118117
+    },
+    "nom_commune": "Pierrelaye",
+    "code_insee": "95488"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47596",
+    "stop_name": "Gare \u00c9pluches",
+    "stop_lon": "2.1226568963520114",
+    "stop_lat": "49.055049202893706",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1226568963520114,
+      "lat": 49.055049202893706
+    },
+    "nom_commune": "Saint-Ouen-l'Aum\u00f4ne",
+    "code_insee": "95572"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47591",
+    "stop_name": "Chaponval",
+    "stop_lon": "2.1410848292610347",
+    "stop_lat": "49.069127824401804",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1410848292610347,
+      "lat": 49.069127824401804
+    },
+    "nom_commune": "Auvers-sur-Oise",
+    "code_insee": "95039"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47918",
+    "stop_name": "Auvers-sur-Oise",
+    "stop_lon": "2.174916445478343",
+    "stop_lat": "49.07034498316611",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.174916445478343,
+      "lat": 49.07034498316611
+    },
+    "nom_commune": "Auvers-sur-Oise",
+    "code_insee": "95039"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47525",
+    "stop_name": "Viarmes",
+    "stop_lon": "2.3682376422969282",
+    "stop_lat": "49.11663481669089",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3682376422969282,
+      "lat": 49.11663481669089
+    },
+    "nom_commune": "Viarmes",
+    "code_insee": "95652"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47963",
+    "stop_name": "Vaucelles",
+    "stop_lon": "2.2294526219892656",
+    "stop_lat": "49.02172683988197",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2294526219892656,
+      "lat": 49.02172683988197
+    },
+    "nom_commune": "Taverny",
+    "code_insee": "95607"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47582",
+    "stop_name": "M\u00e9ry-sur-Oise",
+    "stop_lon": "2.1914182364676797",
+    "stop_lat": "49.058277435287074",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1914182364676797,
+      "lat": 49.058277435287074
+    },
+    "nom_commune": "M\u00e9ry-sur-Oise",
+    "code_insee": "95394"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43126",
+    "stop_name": "Franconville - Le Plessis-Bouchard",
+    "stop_lon": "2.2341907839306554",
+    "stop_lat": "48.99374640051787",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2341907839306554,
+      "lat": 48.99374640051787
+    },
+    "nom_commune": "Franconville",
+    "code_insee": "95252"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43190",
+    "stop_name": "Sarcelles - Saint-Brice",
+    "stop_lon": "2.3686856352535353",
+    "stop_lat": "48.99620491669132",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3686856352535353,
+      "lat": 48.99620491669132
+    },
+    "nom_commune": "Saint-Brice-sous-For\u00eat",
+    "code_insee": "95539"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43073",
+    "stop_name": "\u00c9couen - \u00c9zanville",
+    "stop_lon": "2.3622367893055722",
+    "stop_lat": "49.02319914892831",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3622367893055722,
+      "lat": 49.02319914892831
+    },
+    "nom_commune": "\u00c9zanville",
+    "code_insee": "95229"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47522",
+    "stop_name": "Villaines",
+    "stop_lon": "2.3505357370070645",
+    "stop_lat": "49.079264370566555",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3505357370070645,
+      "lat": 49.079264370566555
+    },
+    "nom_commune": "Villaines-sous-Bois",
+    "code_insee": "95660"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47920",
+    "stop_name": "Ermont Halte",
+    "stop_lon": "2.26320025038274",
+    "stop_lat": "48.990533377371726",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.26320025038274,
+      "lat": 48.990533377371726
+    },
+    "nom_commune": "Ermont",
+    "code_insee": "95219"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:48964",
+    "stop_name": "Saint-Leu-la-For\u00eat",
+    "stop_lon": "2.2428869689226687",
+    "stop_lat": "49.01523840177278",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2428869689226687,
+      "lat": 49.01523840177278
+    },
+    "nom_commune": "Saint-Leu-la-For\u00eat",
+    "code_insee": "95563"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43206",
+    "stop_name": "Taverny",
+    "stop_lon": "2.222287008769188",
+    "stop_lat": "49.024976382846596",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.222287008769188,
+      "lat": 49.024976382846596
+    },
+    "nom_commune": "Taverny",
+    "code_insee": "95607"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43090",
+    "stop_name": "Bessancourt",
+    "stop_lon": "2.2103009348975013",
+    "stop_lat": "49.03527556641014",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2103009348975013,
+      "lat": 49.03527556641014
+    },
+    "nom_commune": "Bessancourt",
+    "code_insee": "95060"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47585",
+    "stop_name": "M\u00e9riel",
+    "stop_lon": "2.205438463461229",
+    "stop_lat": "49.07775311707399",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.205438463461229,
+      "lat": 49.07775311707399
+    },
+    "nom_commune": "M\u00e9riel",
+    "code_insee": "95392"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47590",
+    "stop_name": "Champagne-sur-Oise",
+    "stop_lon": "2.242987667830016",
+    "stop_lat": "49.136089580289706",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.242987667830016,
+      "lat": 49.136089580289706
+    },
+    "nom_commune": "Champagne-sur-Oise",
+    "code_insee": "95134"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411440",
+    "stop_name": "Creil",
+    "stop_lon": "2.46892902764167",
+    "stop_lat": "49.264185555044406",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.46892902764167,
+      "lat": 49.264185555044406
+    },
+    "nom_commune": "Creil",
+    "code_insee": "60175"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47530",
+    "stop_name": "Nointel - Mours",
+    "stop_lon": "2.2799576391232472",
+    "stop_lat": "49.13282894869498",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2799576391232472,
+      "lat": 49.13282894869498
+    },
+    "nom_commune": "Nointel",
+    "code_insee": "95452"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43150",
+    "stop_name": "Saint-Ouen-l'Aum\u00f4ne Liesse",
+    "stop_lon": "2.128124092657316",
+    "stop_lat": "49.0341234164973",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.128124092657316,
+      "lat": 49.0341234164973
+    },
+    "nom_commune": "Saint-Ouen-l'Aum\u00f4ne",
+    "code_insee": "95572"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43180",
+    "stop_name": "Pierrelaye",
+    "stop_lon": "2.1545313948758564",
+    "stop_lat": "49.01917957374756",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.1545313948758564,
+      "lat": 49.01917957374756
+    },
+    "nom_commune": "Pierrelaye",
+    "code_insee": "95488"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43105",
+    "stop_name": "Cernay",
+    "stop_lon": "2.257017857907824",
+    "stop_lat": "48.985149200200375",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.257017857907824,
+      "lat": 48.985149200200375
+    },
+    "nom_commune": "Ermont",
+    "code_insee": "95219"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:44411",
+    "stop_name": "Pontoise",
+    "stop_lon": "2.0957859968423524",
+    "stop_lat": "49.04673337596684",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.0957859968423524,
+      "lat": 49.04673337596684
+    },
+    "nom_commune": "Pontoise",
+    "code_insee": "95500"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:473159",
+    "stop_name": "Deuil - Montmagny",
+    "stop_lon": "2.338131209772398",
+    "stop_lat": "48.975925703105524",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.338131209772398,
+      "lat": 48.975925703105524
+    },
+    "nom_commune": "Deuil-la-Barre",
+    "code_insee": "95197"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43120",
+    "stop_name": "Domont",
+    "stop_lon": "2.3371269712571614",
+    "stop_lat": "49.03284003832482",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3371269712571614,
+      "lat": 49.03284003832482
+    },
+    "nom_commune": "Domont",
+    "code_insee": "95199"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47517",
+    "stop_name": "Bouff\u00e9mont - Moisselles",
+    "stop_lon": "2.3229000286671555",
+    "stop_lat": "49.045103567466136",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3229000286671555,
+      "lat": 49.045103567466136
+    },
+    "nom_commune": "Bouff\u00e9mont",
+    "code_insee": "95091"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47951",
+    "stop_name": "Seugy",
+    "stop_lon": "2.3996583056293246",
+    "stop_lat": "49.11912737513361",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3996583056293246,
+      "lat": 49.11912737513361
+    },
+    "nom_commune": "Seugy",
+    "code_insee": "95594"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:412743",
+    "stop_name": "Saint-Denis",
+    "stop_lon": "2.345479004987329",
+    "stop_lat": "48.93482889939617",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.345479004987329,
+      "lat": 48.93482889939617
+    },
+    "nom_commune": "Saint-Denis",
+    "code_insee": "93066"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43075",
+    "stop_name": "Enghien-les-Bains",
+    "stop_lon": "2.3067933741682713",
+    "stop_lat": "48.97288052394267",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3067933741682713,
+      "lat": 48.97288052394267
+    },
+    "nom_commune": "Enghien-les-Bains",
+    "code_insee": "95210"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47898",
+    "stop_name": "Ermont - Eaubonne",
+    "stop_lon": "2.2707541014797794",
+    "stop_lat": "48.98049890628609",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2707541014797794,
+      "lat": 48.98049890628609
+    },
+    "nom_commune": "Ermont",
+    "code_insee": "95219"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47589",
+    "stop_name": "L'Isle-Adam - Parmain",
+    "stop_lon": "2.209941858169547",
+    "stop_lat": "49.11454854558362",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.209941858169547,
+      "lat": 49.11454854558362
+    },
+    "nom_commune": "Parmain",
+    "code_insee": "95480"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43178",
+    "stop_name": "Persan - Beaumont",
+    "stop_lon": "2.2777997330536137",
+    "stop_lat": "49.147582944600785",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2777997330536137,
+      "lat": 49.147582944600785
+    },
+    "nom_commune": "Persan",
+    "code_insee": "95487"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47533",
+    "stop_name": "Bruy\u00e8res-sur-Oise",
+    "stop_lon": "2.32483287423228",
+    "stop_lat": "49.15511620671838",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.32483287423228,
+      "lat": 49.15511620671838
+    },
+    "nom_commune": "Bruy\u00e8res-sur-Oise",
+    "code_insee": "95116"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411332",
+    "stop_name": "Boran-sur-Oise",
+    "stop_lon": "2.362237794019318",
+    "stop_lat": "49.16664871633883",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.362237794019318,
+      "lat": 49.16664871633883
+    },
+    "nom_commune": "Boran-sur-Oise",
+    "code_insee": "60086"
+  },
+  {
+    "id": "IDFM:C01737",
+    "route_long_name": "H",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/page-lignes/ligne-h#les-horaires-de-la-ligne-h---a-p-1519\", \"label\": \"Plan (mise \u00e0 jour 29/12/2021)\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Creil\", \"to\": \"Pontoise\", \"first\": \"05:50\", \"last\": \"20:50\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Persan - Beaumont\", \"to\": \"Pontoise\", \"first\": \"06:19\", \"last\": \"21:26\"}, {\"routeId\": \"route:IDFM:SNCF:3d0e186b-9039-3d64-98ea-ad97a382d9d6\", \"from\": \"Valmondois\", \"to\": \"Pontoise\", \"first\": \"06:32\", \"last\": \"21:38\"}, {\"routeId\": \"route:IDFM:SNCF:eccf8a9d-95d7-3089-911e-c475a7149a9c\", \"from\": \"Gare du Nord\", \"first\": \"05:19\", \"last\": \"21:50\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411326",
+    "stop_name": "Pr\u00e9cy-sur-Oise",
+    "stop_lon": "2.377341204610025",
+    "stop_lat": "49.20347714232073",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.377341204610025,
+      "lat": 49.20347714232073
+    },
+    "nom_commune": "Pr\u00e9cy-sur-Oise",
+    "code_insee": "60513"
+  }
+]

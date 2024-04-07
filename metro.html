@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passage Métro 1</title>
+    <link rel="stylesheet" href="./css/app.css">
+</head>
+
+<body>
+<div class="menu">
+    <div>
+        <div class="logoLigne">
+            <img src="img/metro-logo.svg" id="icon" alt="">
+        </div>
+        <h1 id="station"></h1>
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <form action="">
+            <input type="text" id="stationSearch" oninput="rechercherStation()" placeholder="Châtelet, ...">
+            <ul class="" id="stationSearchResults"></ul>
+
+        </form>
+    </div>
+</div>
+<div style="display: flex;">
+    <div id="horaires_s1" style="width: 100%; padding: 0 2rem">
+    </div>
+    <div id="horaires_s2" style="width: 100%; padding: 0 2rem">
+    </div>
+</div>
+<div class="now" id="now"></div>
+
+<script src="./js/app.js"></script>
+<script src="./js/metro.js"></script>
+</body>
+
+</html>

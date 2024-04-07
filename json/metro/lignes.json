@@ -1,0 +1,29 @@
+    {
+        "metro": {
+            "1": {
+                "code": "C01371",
+                "arretsIndex": "arrets-metro-1.json",
+                "icon": "1.svg"
+            },
+            "2": {
+                "code": "C01371",
+                "arretsIndex": "arrets-metro-1.json",
+                "icon": "2.svg"
+            },
+            "C": {
+                "code": "C01727",
+                "arretsIndex": "arrets-rer-c.json",
+                "icon": "rer-c.svg"
+            },
+            "D": {
+                "code": "C01728",
+                "arretsIndex": "arrets-rer-d.json",
+                "icon": "rer-d.svg"
+            },
+            "E": {
+                "code": "C01729",
+                "arretsIndex": "arrets-rer-e.json",
+                "icon": "rer-e.svg"
+            }
+        }
+    }

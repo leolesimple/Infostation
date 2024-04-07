@@ -1,0 +1,546 @@
+[
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486957",
+    "stop_name": "Champlan",
+    "stop_lon": "2.2808016818526604",
+    "stop_lat": "48.70802879952352",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2808016818526604,
+      "lat": 48.70802879952352
+    },
+    "nom_commune": "Champlan",
+    "code_insee": "91136"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486892",
+    "stop_name": "Chilly-Mazarin",
+    "stop_lon": "2.307099110457053",
+    "stop_lat": "48.700889681819284",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.307099110457053,
+      "lat": 48.700889681819284
+    },
+    "nom_commune": "Chilly-Mazarin",
+    "code_insee": "91161"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486888",
+    "stop_name": "Petit Vaux",
+    "stop_lon": "2.332847217178883",
+    "stop_lat": "48.67660645389401",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.332847217178883,
+      "lat": 48.67660645389401
+    },
+    "nom_commune": "\u00c9pinay-sur-Orge",
+    "code_insee": "91216"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486973",
+    "stop_name": "Am\u00e9d\u00e9e Gordini",
+    "stop_lon": "2.3737138539226508",
+    "stop_lat": "48.65869425652456",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3737138539226508,
+      "lat": 48.65869425652456
+    },
+    "nom_commune": "Viry-Ch\u00e2tillon",
+    "code_insee": "91687"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486967",
+    "stop_name": "Bois de Saint-Eutrope",
+    "stop_lon": "2.395559037100057",
+    "stop_lat": "48.63413345055503",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.395559037100057,
+      "lat": 48.63413345055503
+    },
+    "nom_commune": "Ris-Orangis",
+    "code_insee": "91521"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486902",
+    "stop_name": "\u00c9vry - Courcouronnes",
+    "stop_lon": "2.4254895141624586",
+    "stop_lat": "48.62495351563186",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4254895141624586,
+      "lat": 48.62495351563186
+    },
+    "nom_commune": "\u00c9vry-Courcouronnes",
+    "code_insee": "91228"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486994",
+    "stop_name": "Trait\u00e9 de Rome",
+    "stop_lon": "2.407372768852884",
+    "stop_lat": "48.62515260172909",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.407372768852884,
+      "lat": 48.62515260172909
+    },
+    "nom_commune": "\u00c9vry-Courcouronnes",
+    "code_insee": "91228"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486975",
+    "stop_name": "Am\u00e9d\u00e9e Gordini",
+    "stop_lon": "2.3738083536021946",
+    "stop_lat": "48.65873972823692",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3738083536021946,
+      "lat": 48.65873972823692
+    },
+    "nom_commune": "Viry-Ch\u00e2tillon",
+    "code_insee": "91687"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486883",
+    "stop_name": "Massy-Palaiseau",
+    "stop_lon": "2.2576829515968564",
+    "stop_lat": "48.7253189473246",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2576829515968564,
+      "lat": 48.7253189473246
+    },
+    "nom_commune": "Massy",
+    "code_insee": "91377"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486889",
+    "stop_name": "Gravigny Balizy",
+    "stop_lon": "2.3173195266960644",
+    "stop_lat": "48.68619709283594",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3173195266960644,
+      "lat": 48.68619709283594
+    },
+    "nom_commune": "Longjumeau",
+    "code_insee": "91345"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486965",
+    "stop_name": "Trait\u00e9 de Rome",
+    "stop_lon": "2.407332573437208",
+    "stop_lat": "48.625107425425874",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.407332573437208,
+      "lat": 48.625107425425874
+    },
+    "nom_commune": "\u00c9vry-Courcouronnes",
+    "code_insee": "91228"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486972",
+    "stop_name": "Ferme Neuve",
+    "stop_lon": "2.3834852329082086",
+    "stop_lat": "48.65216981538317",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3834852329082086,
+      "lat": 48.65216981538317
+    },
+    "nom_commune": "Grigny",
+    "code_insee": "91286"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486980",
+    "stop_name": "Parc du Ch\u00e2teau",
+    "stop_lon": "2.3553794651902846",
+    "stop_lat": "48.66787037413049",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3553794651902846,
+      "lat": 48.66787037413049
+    },
+    "nom_commune": "Morsang-sur-Orge",
+    "code_insee": "91434"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486886",
+    "stop_name": "Petit Vaux",
+    "stop_lon": "2.3327935799309887",
+    "stop_lat": "48.67655218410451",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3327935799309887,
+      "lat": 48.67655218410451
+    },
+    "nom_commune": "\u00c9pinay-sur-Orge",
+    "code_insee": "91216"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486891",
+    "stop_name": "Gravigny Balizy",
+    "stop_lon": "2.317238375535632",
+    "stop_lat": "48.686169643597474",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.317238375535632,
+      "lat": 48.686169643597474
+    },
+    "nom_commune": "Longjumeau",
+    "code_insee": "91345"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486990",
+    "stop_name": "Champlan",
+    "stop_lon": "2.2807479426245516",
+    "stop_lat": "48.70798350178886",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2807479426245516,
+      "lat": 48.70798350178886
+    },
+    "nom_commune": "Champlan",
+    "code_insee": "91136"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486962",
+    "stop_name": "Massy Europe",
+    "stop_lon": "2.2725148435021603",
+    "stop_lat": "48.72437589492065",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2725148435021603,
+      "lat": 48.72437589492065
+    },
+    "nom_commune": "Massy",
+    "code_insee": "91377"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486960",
+    "stop_name": "Massy Europe",
+    "stop_lon": "2.2726235937498127",
+    "stop_lat": "48.7243765577779",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2726235937498127,
+      "lat": 48.7243765577779
+    },
+    "nom_commune": "Massy",
+    "code_insee": "91377"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486897",
+    "stop_name": "Longjumeau",
+    "stop_lon": "2.2939520027613325",
+    "stop_lat": "48.70239567385033",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2939520027613325,
+      "lat": 48.70239567385033
+    },
+    "nom_commune": "Longjumeau",
+    "code_insee": "91345"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486978",
+    "stop_name": "Parc du Ch\u00e2teau",
+    "stop_lon": "2.3553396144571788",
+    "stop_lat": "48.66779819873873",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3553396144571788,
+      "lat": 48.66779819873873
+    },
+    "nom_commune": "Morsang-sur-Orge",
+    "code_insee": "91434"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486970",
+    "stop_name": "Ferme Neuve",
+    "stop_lon": "2.383308967599923",
+    "stop_lat": "48.65215091322678",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.383308967599923,
+      "lat": 48.65215091322678
+    },
+    "nom_commune": "Grigny",
+    "code_insee": "91286"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486963",
+    "stop_name": "Bois Briard",
+    "stop_lon": "2.415821100604916",
+    "stop_lat": "48.62196503646022",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.415821100604916,
+      "lat": 48.62196503646022
+    },
+    "nom_commune": "\u00c9vry-Courcouronnes",
+    "code_insee": "91228"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486898",
+    "stop_name": "\u00c9pinay-sur-Orge",
+    "stop_lon": "2.33524625399574",
+    "stop_lat": "48.67059322879169",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.33524625399574,
+      "lat": 48.67059322879169
+    },
+    "nom_commune": "\u00c9pinay-sur-Orge",
+    "code_insee": "91216"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486900",
+    "stop_name": "\u00c9vry - Courcouronnes",
+    "stop_lon": "2.4254628714315247",
+    "stop_lat": "48.62490841088466",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4254628714315247,
+      "lat": 48.62490841088466
+    },
+    "nom_commune": "\u00c9vry-Courcouronnes",
+    "code_insee": "91228"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486878",
+    "stop_name": "\u00c9pinay-sur-Orge",
+    "stop_lon": "2.3350562498123173",
+    "stop_lat": "48.67058317418974",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.3350562498123173,
+      "lat": 48.67058317418974
+    },
+    "nom_commune": "\u00c9pinay-sur-Orge",
+    "code_insee": "91216"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486895",
+    "stop_name": "Longjumeau",
+    "stop_lon": "2.2939119675231785",
+    "stop_lat": "48.7023414681856",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.2939119675231785,
+      "lat": 48.7023414681856
+    },
+    "nom_commune": "Longjumeau",
+    "code_insee": "91345"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486976",
+    "stop_name": "Coteaux de l'Orge",
+    "stop_lon": "2.36262193257582",
+    "stop_lat": "48.665291775191896",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.36262193257582,
+      "lat": 48.665291775191896
+    },
+    "nom_commune": "Viry-Ch\u00e2tillon",
+    "code_insee": "91687"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486988",
+    "stop_name": "Bois Briard",
+    "stop_lon": "2.4157529624879253",
+    "stop_lat": "48.62199168806369",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.4157529624879253,
+      "lat": 48.62199168806369
+    },
+    "nom_commune": "\u00c9vry-Courcouronnes",
+    "code_insee": "91228"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486969",
+    "stop_name": "Bois de Saint-Eutrope",
+    "stop_lon": "2.395681067913135",
+    "stop_lat": "48.634143064852594",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.395681067913135,
+      "lat": 48.634143064852594
+    },
+    "nom_commune": "Ris-Orangis",
+    "code_insee": "91521"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486991",
+    "stop_name": "Coteaux de l'Orge",
+    "stop_lon": "2.362702965554391",
+    "stop_lat": "48.66532818843938",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.362702965554391,
+      "lat": 48.66532818843938
+    },
+    "nom_commune": "Viry-Ch\u00e2tillon",
+    "code_insee": "91687"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486899",
+    "stop_name": "\u00c9pinay-sur-Orge",
+    "stop_lon": "2.335124034931777",
+    "stop_lat": "48.67059254723429",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.335124034931777,
+      "lat": 48.67059254723429
+    },
+    "nom_commune": "\u00c9pinay-sur-Orge",
+    "code_insee": "91216"
+  },
+  {
+    "id": "IDFM:C02529",
+    "route_long_name": "T12",
+    "plans": "[{\"link\": \"https://ilico.iledefrance-mobilites.fr/uploads/plans/655612055dcdb_T12%20Citadis%20Dualis%20horizontal.pdf\", \"label\": \"Plan du tram T12\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:77297155-249b-36a8-a4a0-ea6468ec098e\", \"from\": \"\u00c9vry - Courcouronnes\", \"to\": \"Massy-Palaiseau\", \"first\": \"05:04\", \"last\": \"00:07\"}, {\"routeId\": \"route:IDFM:SNCF:b8942db2-b598-3d9b-965c-80af10fedd28\", \"from\": \"Massy-Palaiseau\", \"to\": \"\u00c9vry - Courcouronnes\", \"first\": \"05:39\", \"last\": \"23:30\"}]",
+    "stop_id": "IDFM:486894",
+    "stop_name": "Chilly-Mazarin",
+    "stop_lon": "2.306909120836024",
+    "stop_lat": "48.70087058852854",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.306909120836024,
+      "lat": 48.70087058852854
+    },
+    "nom_commune": "Chilly-Mazarin",
+    "code_insee": "91161"
+  }
+]

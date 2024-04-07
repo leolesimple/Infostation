@@ -1,0 +1,427 @@
+[
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47145",
+    "stop_name": "H\u00e9ricy",
+    "stop_lon": "2.7607507689116346",
+    "stop_lat": "48.44272124429534",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.7607507689116346,
+      "lat": 48.44272124429534
+    },
+    "nom_commune": "H\u00e9ricy",
+    "code_insee": "77226"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43218",
+    "stop_name": "Vernou-sur-Seine",
+    "stop_lon": "2.8421499951400837",
+    "stop_lat": "48.38667549692297",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.8421499951400837,
+      "lat": 48.38667549692297
+    },
+    "nom_commune": "Vernou-la-Celle-sur-Seine",
+    "code_insee": "77494"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47124",
+    "stop_name": "Bourron-Marlotte - Grez",
+    "stop_lon": "2.6918764214147592",
+    "stop_lat": "48.332451033464054",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.6918764214147592,
+      "lat": 48.332451033464054
+    },
+    "nom_commune": "Bourron-Marlotte",
+    "code_insee": "77048"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45804",
+    "stop_name": "Livry-sur-Seine",
+    "stop_lon": "2.6789439431211646",
+    "stop_lat": "48.510288065207455",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.6789439431211646,
+      "lat": 48.510288065207455
+    },
+    "nom_commune": "Livry-sur-Seine",
+    "code_insee": "77255"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43123",
+    "stop_name": "Fontaine-le-Port",
+    "stop_lon": "2.750465255041539",
+    "stop_lat": "48.48734840615557",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.750465255041539,
+      "lat": 48.48734840615557
+    },
+    "nom_commune": "Fontaine-le-Port",
+    "code_insee": "77188"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:470195",
+    "stop_name": "Paris Gare de Lyon",
+    "stop_lon": "2.376365660931201",
+    "stop_lat": "48.84340211646564",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.376365660931201,
+      "lat": 48.84340211646564
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47909",
+    "stop_name": "Melun",
+    "stop_lon": "2.65469836071817",
+    "stop_lat": "48.527491277248295",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.65469836071817,
+      "lat": 48.527491277248295
+    },
+    "nom_commune": "Melun",
+    "code_insee": "77288"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43106",
+    "stop_name": "Champagne-sur-Seine",
+    "stop_lon": "2.798915755216375",
+    "stop_lat": "48.40726498958356",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.798915755216375,
+      "lat": 48.40726498958356
+    },
+    "nom_commune": "Champagne-sur-Seine",
+    "code_insee": "77079"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43144",
+    "stop_name": "La Grande-Paroisse",
+    "stop_lon": "2.896902458012003",
+    "stop_lat": "48.37863280606578",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.896902458012003,
+      "lat": 48.37863280606578
+    },
+    "nom_commune": "La Grande-Paroisse",
+    "code_insee": "77210"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43245",
+    "stop_name": "Nemours - Saint-Pierre / Gare Foljuif",
+    "stop_lon": "2.6850524330729284",
+    "stop_lat": "48.26863657605134",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.6850524330729284,
+      "lat": 48.26863657605134
+    },
+    "nom_commune": "Saint-Pierre-l\u00e8s-Nemours",
+    "code_insee": "77431"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411482",
+    "stop_name": "Montargis",
+    "stop_lon": "2.743201130533139",
+    "stop_lat": "48.00669739961254",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.743201130533139,
+      "lat": 48.00669739961254
+    },
+    "nom_commune": "Montargis",
+    "code_insee": "45208"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47911",
+    "stop_name": "Fontainebleau - Avon",
+    "stop_lon": "2.7267714287220346",
+    "stop_lat": "48.416666098921",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.7267714287220346,
+      "lat": 48.416666098921
+    },
+    "nom_commune": "Avon",
+    "code_insee": "77014"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47961",
+    "stop_name": "Thomery",
+    "stop_lon": "2.764187149192088",
+    "stop_lat": "48.39428183783365",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.764187149192088,
+      "lat": 48.39428183783365
+    },
+    "nom_commune": "Fontainebleau",
+    "code_insee": "77186"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47910",
+    "stop_name": "Montereau",
+    "stop_lon": "2.942541935520315",
+    "stop_lat": "48.37960363189276",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.942541935520315,
+      "lat": 48.37960363189276
+    },
+    "nom_commune": "Montereau-Fault-Yonne",
+    "code_insee": "77305"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47654",
+    "stop_name": "Bois-le-Roi",
+    "stop_lon": "2.691542568002651",
+    "stop_lat": "48.47579827327959",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.691542568002651,
+      "lat": 48.47579827327959
+    },
+    "nom_commune": "Bois-le-Roi",
+    "code_insee": "77037"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47130",
+    "stop_name": "Moret - Veneux-les-Sablons",
+    "stop_lon": "2.800462899908886",
+    "stop_lat": "48.37789836789835",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.800462899908886,
+      "lat": 48.37789836789835
+    },
+    "nom_commune": "Moret-Loing-et-Orvanne",
+    "code_insee": "77316"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:43107",
+    "stop_name": "Chartrettes",
+    "stop_lon": "2.6952691308240335",
+    "stop_lat": "48.48701587175729",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.6952691308240335,
+      "lat": 48.48701587175729
+    },
+    "nom_commune": "Chartrettes",
+    "code_insee": "77096"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47136",
+    "stop_name": "Vulaines-sur-Seine - Samoreau",
+    "stop_lon": "2.752898337073854",
+    "stop_lat": "48.430461048527036",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.752898337073854,
+      "lat": 48.430461048527036
+    },
+    "nom_commune": "Vulaines-sur-Seine",
+    "code_insee": "77533"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47125",
+    "stop_name": "Montigny-sur-Loing",
+    "stop_lon": "2.738336123575285",
+    "stop_lat": "48.33649861774928",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.738336123575285,
+      "lat": 48.33649861774928
+    },
+    "nom_commune": "Montigny-sur-Loing",
+    "code_insee": "77312"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47119",
+    "stop_name": "Bagneaux-sur-Loing",
+    "stop_lon": "2.7040329448732985",
+    "stop_lat": "48.22938980618883",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.7040329448732985,
+      "lat": 48.22938980618883
+    },
+    "nom_commune": "Bagneaux-sur-Loing",
+    "code_insee": "77016"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47118",
+    "stop_name": "Souppes - Ch\u00e2teau-Landon",
+    "stop_lon": "2.7358697259911766",
+    "stop_lat": "48.18117871674994",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.7358697259911766,
+      "lat": 48.18117871674994
+    },
+    "nom_commune": "Souppes-sur-Loing",
+    "code_insee": "77458"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:58955",
+    "stop_name": "Dordives",
+    "stop_lon": "2.762658376432018",
+    "stop_lat": "48.14790552423752",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.762658376432018,
+      "lat": 48.14790552423752
+    },
+    "nom_commune": "Dordives",
+    "code_insee": "45127"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:411488",
+    "stop_name": "Ferri\u00e8res - Fontenay",
+    "stop_lon": "2.7720920761530037",
+    "stop_lat": "48.09588996416835",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.7720920761530037,
+      "lat": 48.09588996416835
+    },
+    "nom_commune": "Fontenay-sur-Loing",
+    "code_insee": "45148"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-r.pdf\", \"label\": \"Plan de la ligne Transilien R\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Gare de Lyon\", \"to\": \"Montargis\", \"first\": \"06:16\", \"last\": \"20:16\"}, {\"routeId\": \"route:IDFM:SNCF:2068377e-1f97-309b-980e-d913aa95d36e\", \"from\": \"Melun\", \"to\": \"Montargis\", \"first\": \"06:41\", \"last\": \"20:42\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:47953",
+    "stop_name": "Saint-Mamm\u00e8s",
+    "stop_lon": "2.816506976966753",
+    "stop_lat": "48.38264713543743",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.816506976966753,
+      "lat": 48.38264713543743
+    },
+    "nom_commune": "Saint-Mamm\u00e8s",
+    "code_insee": "77419"
+  },
+  {
+    "id": "IDFM:C01731",
+    "route_long_name": "R",
+    "plans": "[{\"link\": \"https://www.transilien.com/fr/sites/transilien/files/plan-de-ligne-rer-d.pdf\", \"label\": \"Plan\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Melun\", \"first\": \"06:53\", \"last\": \"20:53\"}, {\"routeId\": \"route:IDFM:SNCF:111afbf6-e21d-3ee6-b3a9-7c5fd08c3b89\", \"from\": \"Juvisy\", \"to\": \"Melun\", \"first\": \"06:35\", \"last\": \"01:20\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Corbeil-Essonnes\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:25\", \"last\": \"23:55\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Goussainville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:25\", \"last\": \"01:19\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Juvisy\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"04:45\", \"last\": \"00:15\"}, {\"routeId\": \"route:IDFM:SNCF:e07dc894-49f2-34cc-92ae-32688762f79e\", \"from\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"to\": \"Villiers-le-Bel - Gonesse - Arnouville\", \"first\": \"05:20\", \"last\": \"01:14\"}, {\"routeId\": \"route:IDFM:SNCF:2b05aacf-8e15-3f0b-98d5-1e88886bca9b\", \"from\": \"Goussainville\", \"to\": \"Melun\", \"first\": \"05:04\", \"last\": \"22:04\"}]",
+    "stop_id": "IDFM:monomodalStopPlace:45739",
+    "stop_name": "Juvisy",
+    "stop_lon": "2.383334629403869",
+    "stop_lat": "48.68970940912314",
+    "operatorname": "SNCF",
+    "pointgeo": {
+      "lon": 2.383334629403869,
+      "lat": 48.68970940912314
+    },
+    "nom_commune": "Juvisy-sur-Orge",
+    "code_insee": "91326"
+  }
+]

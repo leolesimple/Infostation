@@ -1,0 +1,852 @@
+[
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22118",
+    "stop_name": "Jaur\u00e8s",
+    "stop_lon": "2.370269867509251",
+    "stop_lat": "48.88159683079925",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.370269867509251,
+      "lat": 48.88159683079925
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463009",
+    "stop_name": "Stalingrad",
+    "stop_lon": "2.3657743705581695",
+    "stop_lat": "48.88432054886986",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3657743705581695,
+      "lat": 48.88432054886986
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22123",
+    "stop_name": "Anvers",
+    "stop_lon": "2.3441548403302916",
+    "stop_lat": "48.882868568843925",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3441548403302916,
+      "lat": 48.882868568843925
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22114",
+    "stop_name": "Pigalle",
+    "stop_lon": "2.338257976509587",
+    "stop_lat": "48.882269542226226",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.338257976509587,
+      "lat": 48.882269542226226
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463252",
+    "stop_name": "Place de Clichy",
+    "stop_lon": "2.3278987090661456",
+    "stop_lat": "48.88374519677981",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3278987090661456,
+      "lat": 48.88374519677981
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463266",
+    "stop_name": "Ternes",
+    "stop_lon": "2.2981132886172433",
+    "stop_lat": "48.878227730862385",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2981132886172433,
+      "lat": 48.878227730862385
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22116",
+    "stop_name": "M\u00e9nilmontant",
+    "stop_lon": "2.38353966877949",
+    "stop_lat": "48.866440166781686",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.38353966877949,
+      "lat": 48.866440166781686
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22120",
+    "stop_name": "Colonel Fabien",
+    "stop_lon": "2.3705761028196575",
+    "stop_lat": "48.877695345805535",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3705761028196575,
+      "lat": 48.877695345805535
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:462982",
+    "stop_name": "La Chapelle",
+    "stop_lon": "2.360430336162137",
+    "stop_lat": "48.88447648340964",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.360430336162137,
+      "lat": 48.88447648340964
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463113",
+    "stop_name": "Blanche",
+    "stop_lon": "2.3324843754343627",
+    "stop_lat": "48.88376635447715",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3324843754343627,
+      "lat": 48.88376635447715
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22117",
+    "stop_name": "Monceau",
+    "stop_lon": "2.309412967374703",
+    "stop_lat": "48.880568770126835",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.309412967374703,
+      "lat": 48.880568770126835
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463322",
+    "stop_name": "Victor Hugo",
+    "stop_lon": "2.2858287659129797",
+    "stop_lat": "48.869926082410636",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2858287659129797,
+      "lat": 48.869926082410636
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463240",
+    "stop_name": "Monceau",
+    "stop_lon": "2.309412967374703",
+    "stop_lat": "48.880568770126835",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.309412967374703,
+      "lat": 48.880568770126835
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22110",
+    "stop_name": "Rome",
+    "stop_lon": "2.3214039779193896",
+    "stop_lat": "48.882256139435015",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3214039779193896,
+      "lat": 48.882256139435015
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22115",
+    "stop_name": "Place de Clichy",
+    "stop_lon": "2.3279583280102196",
+    "stop_lat": "48.88366908827266",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3279583280102196,
+      "lat": 48.88366908827266
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463088",
+    "stop_name": "Pigalle",
+    "stop_lon": "2.3382179854559224",
+    "stop_lat": "48.88219737464818",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3382179854559224,
+      "lat": 48.88219737464818
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22127",
+    "stop_name": "Barb\u00e8s - Rochechouart",
+    "stop_lon": "2.3506070793550977",
+    "stop_lat": "48.88377608955688",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3506070793550977,
+      "lat": 48.88377608955688
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22119",
+    "stop_name": "La Chapelle",
+    "stop_lon": "2.3604041692740987",
+    "stop_lat": "48.884386410852784",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3604041692740987,
+      "lat": 48.884386410852784
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:462984",
+    "stop_name": "Colonel Fabien",
+    "stop_lon": "2.370467574793864",
+    "stop_lat": "48.87764980852146",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.370467574793864,
+      "lat": 48.87764980852146
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22128",
+    "stop_name": "Belleville",
+    "stop_lon": "2.3768306915222848",
+    "stop_lat": "48.872314077361665",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3768306915222848,
+      "lat": 48.872314077361665
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463094",
+    "stop_name": "Barb\u00e8s - Rochechouart",
+    "stop_lon": "2.350573400888514",
+    "stop_lat": "48.883852349861876",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.350573400888514,
+      "lat": 48.883852349861876
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22106",
+    "stop_name": "Villiers",
+    "stop_lon": "2.3157165772440385",
+    "stop_lat": "48.88130644704797",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3157165772440385,
+      "lat": 48.88130644704797
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463256",
+    "stop_name": "Porte Dauphine",
+    "stop_lon": "2.2778093495879346",
+    "stop_lat": "48.8717351159749",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2778093495879346,
+      "lat": 48.8717351159749
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22111",
+    "stop_name": "Porte Dauphine",
+    "stop_lon": "2.2776327175452717",
+    "stop_lat": "48.871396795248316",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2776327175452717,
+      "lat": 48.871396795248316
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463043",
+    "stop_name": "Charles de Gaulle - Etoile",
+    "stop_lon": "2.295927507409278",
+    "stop_lat": "48.87494579313413",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.295927507409278,
+      "lat": 48.87494579313413
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22125",
+    "stop_name": "Blanche",
+    "stop_lon": "2.3324843754343627",
+    "stop_lat": "48.88376635447715",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3324843754343627,
+      "lat": 48.88376635447715
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463111",
+    "stop_name": "Belleville",
+    "stop_lon": "2.376640589315146",
+    "stop_lat": "48.87225013398613",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.376640589315146,
+      "lat": 48.87225013398613
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:462983",
+    "stop_name": "Couronnes",
+    "stop_lon": "2.3802889829271936",
+    "stop_lat": "48.86919334513237",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3802889829271936,
+      "lat": 48.86919334513237
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463230",
+    "stop_name": "Philippe Auguste",
+    "stop_lon": "2.390497596745289",
+    "stop_lat": "48.858089428135756",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.390497596745289,
+      "lat": 48.858089428135756
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22122",
+    "stop_name": "Alexandre Dumas",
+    "stop_lon": "2.3945914186721278",
+    "stop_lat": "48.856199097341126",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3945914186721278,
+      "lat": 48.856199097341126
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463117",
+    "stop_name": "Alexandre Dumas",
+    "stop_lon": "2.3947127337554788",
+    "stop_lat": "48.85624467843737",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3947127337554788,
+      "lat": 48.85624467843737
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22112",
+    "stop_name": "P\u00e8re Lachaise",
+    "stop_lon": "2.3876893260656895",
+    "stop_lat": "48.86248637862667",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3876893260656895,
+      "lat": 48.86248637862667
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463296",
+    "stop_name": "Rome",
+    "stop_lon": "2.3213591738229726",
+    "stop_lat": "48.88234581879614",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3213591738229726,
+      "lat": 48.88234581879614
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22094",
+    "stop_name": "Charles de Gaulle - Etoile",
+    "stop_lon": "2.2958117752357627",
+    "stop_lat": "48.87499457617108",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2958117752357627,
+      "lat": 48.87499457617108
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22108",
+    "stop_name": "Ternes",
+    "stop_lon": "2.2981136521983068",
+    "stop_lat": "48.8782007528283",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2981136521983068,
+      "lat": 48.8782007528283
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463120",
+    "stop_name": "Anvers",
+    "stop_lon": "2.3441548403302916",
+    "stop_lat": "48.882868568843925",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3441548403302916,
+      "lat": 48.882868568843925
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22107",
+    "stop_name": "Stalingrad",
+    "stop_lon": "2.365751439124989",
+    "stop_lat": "48.884243984567746",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.365751439124989,
+      "lat": 48.884243984567746
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:462981",
+    "stop_name": "Jaur\u00e8s",
+    "stop_lon": "2.3701539703369967",
+    "stop_lat": "48.881596221131936",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3701539703369967,
+      "lat": 48.881596221131936
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463285",
+    "stop_name": "P\u00e8re Lachaise",
+    "stop_lon": "2.3875798912544455",
+    "stop_lat": "48.86244984493746",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3875798912544455,
+      "lat": 48.86244984493746
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22072",
+    "stop_name": "Nation",
+    "stop_lon": "2.3957988351125254",
+    "stop_lat": "48.84845279707999",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3957988351125254,
+      "lat": 48.84845279707999
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22124",
+    "stop_name": "Avron",
+    "stop_lon": "2.3981875566593973",
+    "stop_lat": "48.85164854359716",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3981875566593973,
+      "lat": 48.85164854359716
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22113",
+    "stop_name": "Philippe Auguste",
+    "stop_lon": "2.3905477055525735",
+    "stop_lat": "48.858175121260864",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3905477055525735,
+      "lat": 48.858175121260864
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22126",
+    "stop_name": "Couronnes",
+    "stop_lon": "2.3805336747351005",
+    "stop_lat": "48.86932051914457",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3805336747351005,
+      "lat": 48.86932051914457
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463154",
+    "stop_name": "Courcelles",
+    "stop_lon": "2.3032943624252122",
+    "stop_lat": "48.87926525411311",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3032943624252122,
+      "lat": 48.87926525411311
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22109",
+    "stop_name": "Victor Hugo",
+    "stop_lon": "2.2859020006220643",
+    "stop_lat": "48.8698545716049",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.2859020006220643,
+      "lat": 48.8698545716049
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:22121",
+    "stop_name": "Courcelles",
+    "stop_lon": "2.3032943624252122",
+    "stop_lat": "48.87926525411311",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3032943624252122,
+      "lat": 48.87926525411311
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:462988",
+    "stop_name": "Villiers",
+    "stop_lon": "2.3157614492393397",
+    "stop_lat": "48.88121227337839",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3157614492393397,
+      "lat": 48.88121227337839
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463243",
+    "stop_name": "M\u00e9nilmontant",
+    "stop_lon": "2.3834303882303045",
+    "stop_lat": "48.866390140145434",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3834303882303045,
+      "lat": 48.866390140145434
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463125",
+    "stop_name": "Avron",
+    "stop_lon": "2.3980666384995177",
+    "stop_lat": "48.85161645805963",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.3980666384995177,
+      "lat": 48.85161645805963
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  },
+  {
+    "id": "IDFM:C01372",
+    "route_long_name": "2",
+    "plans": "[{\"link\": \"https://www.ratp.fr/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.pdf\", \"label\": \"Plan M\u00e9tro 2\"}]",
+    "schedules": "[{\"routeId\": \"route:IDFM:RATP:107467-C01372-ITI_IDFM_C01372_A_2068607116\", \"from\": \"Nation\", \"to\": \"Porte Dauphine\", \"first\": \"05:30\", \"last\": \"00:40\"}, {\"routeId\": \"route:IDFM:RATP:545-C01372-2444061\", \"from\": \"Porte Dauphine\", \"to\": \"Nation\", \"first\": \"05:30\", \"last\": \"00:42\"}]",
+    "stop_id": "IDFM:463067",
+    "stop_name": "Nation",
+    "stop_lon": "2.395925559927623",
+    "stop_lat": "48.848453436979646",
+    "operatorname": "RATP",
+    "pointgeo": {
+      "lon": 2.395925559927623,
+      "lat": 48.848453436979646
+    },
+    "nom_commune": "Paris",
+    "code_insee": "75056"
+  }
+]

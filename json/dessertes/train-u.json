@@ -1,0 +1,28 @@
+{
+  "mission": {
+    "VERI": {
+      "ND": [
+        "Le Val d'Or"
+      ],
+      "Matériel": "Z2N"
+    },
+    "DEFI": {
+      "ND": [
+        "Le Val d'Or"
+      ],
+      "Matériel": "Z2N"
+    },
+    "REFI": {
+      "ND": [
+        "Le Val d'Or"
+      ],
+      "Matériel": "Z2N"
+    },
+    "FERI": {
+      "ND": [
+        "Le Val d'Or"
+      ],
+      "Matériel": "Z2N"
+    }
+  }
+}

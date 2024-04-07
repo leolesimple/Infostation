@@ -1,0 +1,1 @@
+https://api-lab-trone-stif.opendata.stif.info/service/tr-vianavigo/departures?apikey="SA2gwXmU8tMANuVvb1cei7oQc3FjEGOQ&line_id=STIF:Line::C01742:&stop_point_id=STIF:StopPoint:Q:43135:

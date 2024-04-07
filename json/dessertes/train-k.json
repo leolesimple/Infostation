@@ -1,0 +1,28 @@
+{
+  "mission": {
+    "AEKY": {
+      "ND": [],
+      "Matériel": "Z50000"
+    },
+    "AIKY": {
+      "ND": [
+        "Ormoy Villers",
+        "Thieux Nantouillet",
+        "Compans"
+      ],
+      "Matériel": "Z50000"
+    },
+    "KEPY": {
+      "ND": [],
+      "Matériel": "Z50000"
+    },
+    "KIPY": {
+      "ND": [
+        "Ormoy Villers",
+        "Thieux Nantouillet",
+        "Compans"
+      ],
+      "Matériel": "Z50000"
+    }
+  }
+}

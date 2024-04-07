@@ -1,0 +1,313 @@
+{
+  "mission": {
+    "GOTA": {
+      "ND": []
+    },
+    "VETO": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons",
+        "Savigny sur Orge",
+        "Epinay-sur-Orge",
+        "Sainte-Geneviève des Bois",
+        "Saint-Michel-sur-Orge"
+      ]
+    },
+    "KOBE": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons",
+        "Sainte-Geneviève des Bois",
+        "Saint-Michel-sur-Orge"
+      ]
+    },
+    "NARA": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "SLOM": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons",
+        "Savigny sur Orge",
+        "Epinay-sur-Orge",
+        "Sainte-Geneviève des Bois",
+        "Saint-Michel-sur-Orge"
+      ]
+    },
+    "KNAK": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "NAJA": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines"
+      ]
+    },
+    "NICO": {
+      "ND": [
+        "Les Ardoines",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "SIRI": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine"
+      ]
+    },
+    "ZANI": {
+      "ND": [
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "LARA": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "SICA": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines"
+      ]
+    },
+    "LULU": {
+      "ND": [
+        "Les Ardoines",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "SORO": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons",
+        "Sainte-Geneviève des Bois",
+        "Saint-Michel-sur-Orge"
+      ]
+    },
+    "VACK": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine"
+      ]
+    },
+    "NORA": {
+      "ND": [
+      ]
+    },
+    "SARA": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "JUJU": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine"
+      ]
+    },
+    "ROMI": {
+      "ND": [
+      ]
+    },
+    "MONA": {
+      "ND": [
+      ]
+    },
+    "ELBA": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "DEBO": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "FOOT": {
+      "ND": [
+      ]
+    },
+    "BOBA": {
+      "ND": [
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "DELI": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons",
+        "Savigny sur Orge",
+        "Epinay-sur-Orge",
+        "Sainte-Geneviève des Bois",
+        "Saint-Michel-sur-Orge"
+      ]
+    },
+    "ELAO": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons",
+        "Savigny sur Orge",
+        "Epinay-sur-Orge",
+        "Sainte-Geneviève des Bois",
+        "Saint-Michel-sur-Orge"
+      ]
+    },
+    "JILL": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines"
+      ]
+    },
+    "BALI": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons",
+        "Juvisy"
+      ]
+    },
+    "DEBA": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "LOLA": {
+      "ND": [
+      ]
+    },
+    "ZORA": {
+      "ND": [
+      ]
+    },
+    "ORET": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons"
+      ]
+    },
+    "ORIT": {
+      "ND": [
+        "Ivry-sur-Seine",
+        "Vitry-sur-Seine",
+        "Les Ardoines",
+        "Choisy le Roi",
+        "Villeneuve-le-Roi",
+        "Ablon",
+        "Athis Mons",
+        "Savigny sur Orge",
+        "Epinay-sur-Orge",
+        "Sainte-Geneviève des Bois",
+        "Saint-Michel-sur-Orge"
+      ]
+    },
+    "MICK": {
+      "ND": [
+        "Massy-Palaiseau",
+        "Versailles Chantiers"
+      ]
+    },
+    "CIME": {
+      "ND": [
+        "Massy-Palaiseau",
+        "Versailles Chantiers"
+      ]
+    }
+  }
+}
